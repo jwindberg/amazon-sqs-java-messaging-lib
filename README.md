@@ -25,6 +25,6 @@ for communicating with Amazon Simple Queue Service. This project builds on top o
 * Give us feedback [here](https://github.com/awslabs/amazon-sqs-java-messaging-lib/issues).
 * If you'd like to contribute a new feature or bug fix, we'd love to see Github pull requests from you.
 
-
+Modified so that incoming messages don't throw exceptions if they contain message attributes that do not conform to aws labs ideals.
 
 # amazon-sqs-java-messaging-lib
